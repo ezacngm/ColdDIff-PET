@@ -28,7 +28,7 @@ admmnet = admm()
 model = Diffusion(
     denoise_fn=denoise_fn,
     admmnet=None,
-    image_size=128,  ## 注意这个地方即使加了--image_size=256 也要改
+    image_size=128,  
     timesteps=20,
     context=True
 ).cpu()
