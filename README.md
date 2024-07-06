@@ -1,4 +1,4 @@
-##adapted from corediff
+## adapted from corediff
 if you need the original version, please refer to corediffusion
 
 
